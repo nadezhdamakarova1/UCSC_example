@@ -11,9 +11,9 @@ priority 1.4
 configurable on
 autoScale on
 
-  track  em_12_24h_ribo_new_28_fw
+  track  em_12_24h_ribo_new_25_fw
   bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/em_12_24h_ribo_new_25_fw.bw
-  shortLabel cyt_rna_1_25_fw
+  shortLabel em_12_24h_ribo_new_25_fw
   longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
   type bigWig
   parent all_fun
@@ -21,9 +21,9 @@ autoScale on
   color 204,0,102
   
 
-  track  em_12_24h_ribo_new_28_rc
+  track  em_12_24h_ribo_new_25_rc
   bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/em_12_24h_ribo_new_25_rc.bw
-  shortLabel cyt_rna_1_25_rc
+  shortLabel em_12_24h_ribo_new_25_rc
   longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
   type bigWig
   parent all_fun
@@ -32,7 +32,7 @@ autoScale on
   
   track  em_12_24h_ribo_new_30_fw
   bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/em_12_24h_ribo_new_30_fw.bw
-  shortLabel cyt_rna_1_30_fw
+  shortLabel em_12_24h_ribo_new_30_fw
   longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
   type bigWig
   parent all_fun
@@ -42,7 +42,7 @@ autoScale on
 
   track  em_12_24h_ribo_new_30_rc
   bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/em_12_24h_ribo_new_30_rc.bw
-  shortLabel cyt_rna_1_30_rc
+  shortLabel em_12_24h_ribo_new_30_rc
   longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
   type bigWig
   parent all_fun
