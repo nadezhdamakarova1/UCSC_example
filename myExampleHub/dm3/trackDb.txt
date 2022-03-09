@@ -11,9 +11,9 @@ priority 1.4
 configurable on
 autoScale on
 
-  track  bigWig_rc
-  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/a.bw
-  shortLabel bigWig example rc
+  track  cyt_rna_1_25_fw
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/cyt_rna_1_25_fw.bw
+  shortLabel cyt_rna_1_25_fw
   longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
   type bigWig
   parent all_fun
@@ -21,9 +21,28 @@ autoScale on
   color 204,0,102
   
 
-  track  bigWig_fw
-  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/b.bw
-  shortLabel bigWig example fw
+  track  cyt_rna_1_25_rc
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/cyt_rna_1_25_rc.bw
+  shortLabel cyt_rna_1_25_rc
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
+  type bigWig
+  parent all_fun
+  visibility full
+  color 204,0,102
+  
+  track  cyt_rna_1_30_fw
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/cyt_rna_1_30_fw.bw
+  shortLabel cyt_rna_1_30_fw
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
+  type bigWig
+  parent all_fun
+  visibility full
+  color 4,154,246
+  
+
+  track  cyt_rna_1_30_rc
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/cyt_rna_1_30_rc.bw
+  shortLabel cyt_rna_1_30_rc
   longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
   type bigWig
   parent all_fun
