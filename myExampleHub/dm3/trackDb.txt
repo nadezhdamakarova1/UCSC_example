@@ -1,7 +1,7 @@
 track Zhang2018
 container multiWig
-shortLabel em_12_24h_ribo_new_25_30_32_35
-longLabel em_12_24h_ribo_new_25_30_32_35
+shortLabel Zhang2018_em_12_24h_ribo_new_25_30_32_35
+longLabel Zhang2018_em_12_24h_ribo_new_25_30_32_35
 type bigWig
 visibility full
 maxHeightPixels 150:30:11
