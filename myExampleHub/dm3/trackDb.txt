@@ -18,7 +18,7 @@ autoScale on
   type bigWig
   parent all_fun
   visibility full
-  color 4,154,246
+  color 204,0,102
   
 
   track  bigWig_fw
@@ -28,4 +28,4 @@ autoScale on
   type bigWig
   parent all_fun
   visibility full
-  color 204,0,102
+  color 4,154,246
