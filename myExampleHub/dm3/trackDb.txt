@@ -1,5 +1,5 @@
 track  bigWig_rc
-bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/a.bw
+bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/a.bw
 shortLabel bigWig example rc
 longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
 type bigWig
@@ -7,7 +7,7 @@ visibility full
 color 4,154,246
 
 track  bigWig_fw
-bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/b.bw
+bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/b.bw
 shortLabel bigWig example fw
 longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
 type bigWig
