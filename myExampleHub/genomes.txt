@@ -1,3 +1,2 @@
 genome dm3
-trackDb dm3/trackDb1.txt
-trackDb dm3/trackDb2.txt
+trackDb dm3/trackDb.txt
