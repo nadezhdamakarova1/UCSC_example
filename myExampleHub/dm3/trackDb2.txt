@@ -1,1 +1,88 @@
+track all_fun
+container multiWig
+shortLabel Dunn2013_ribo_embryo_gradient_rep1_25_30_32_35
+longLabel Dunn2013_ribo_embryo_gradient_rep1_25_30_32_35
+type bigWig
+visibility full
+maxHeightPixels 150:30:11
+aggregate transparentOverlay
+showSubtrackColorOnUi on
+priority 1
+configurable on
+autoScale on
 
+  track  ribo_embryo_gradient_rep1_25_fw
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_25_fw.bw
+  shortLabel ribo_embryo_gradient_rep1_25_fw
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
+  type bigWig
+  parent all_fun
+  visibility full
+  color 204,0,102
+  
+
+  track  ribo_embryo_gradient_rep1_25_rc
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_25_rc.bw
+  shortLabel ribo_embryo_gradient_rep1_25_rc
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
+  type bigWig
+  parent all_fun
+  visibility full
+  color 204,0,102
+  
+  track  ribo_embryo_gradient_rep1_30_fw
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_30_fw.bw
+  shortLabel ribo_embryo_gradient_rep1_30_fw
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
+  type bigWig
+  parent all_fun
+  visibility full
+  color 4,154,246
+  
+
+  track  ribo_embryo_gradient_rep1_30_rc
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_30_rc.bw
+  shortLabel ribo_embryo_gradient_rep1_30_rc
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
+  type bigWig
+  parent all_fun
+  visibility full
+  color 4,154,246
+  
+  track  ribo_embryo_gradient_rep1_32_fw
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_32_fw.bw
+  shortLabel ribo_embryo_gradient_rep1_32_fw
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
+  type bigWig
+  parent all_fun
+  visibility full
+  color 255,195,0 
+  
+
+  track  ribo_embryo_gradient_rep1_32_rc
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_32_rc.bw
+  shortLabel em_12_24h_ribo_new_32_rc
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
+  type bigWig
+  parent all_fun
+  visibility full
+  color 255,195,0
+
+track  ribo_embryo_gradient_rep1_35_fw
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_35_fw.bw
+  shortLabel ribo_embryo_gradient_rep1_35_fw
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track1
+  type bigWig
+  parent all_fun
+  visibility full
+  color 87,172,42
+  
+
+  track  ribo_embryo_gradient_rep1_35_rc
+  bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_35_rc.bw
+  shortLabel ribo_embryo_gradient_rep1_35_rc
+  longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
+  type bigWig
+  parent all_fun
+  visibility full
+  color 87,172,42
