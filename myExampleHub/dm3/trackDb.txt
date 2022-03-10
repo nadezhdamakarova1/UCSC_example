@@ -150,7 +150,7 @@ autoScale on
 
   track  ribo_embryo_gradient_rep1_32_rc
   bigDataUrl https://raw.githubusercontent.com/nadezhdamakarova1/UCSC_example/main/ribo_embryo_gradient_rep1_32_rc.bw
-  shortLabel em_12_24h_ribo_new_32_rc
+  shortLabel ribo_embryo_gradient_rep1_32_rc
   longLabel This bigWig file is an example from the ENCODE RNA-seq CSHL Track2
   type bigWig
   parent Dunn2013
